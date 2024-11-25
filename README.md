@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Hassan Suliman 
 
 I'm a passionate **Full-Stack Software Developer** from Sudan, currently living in Egypt. With a strong background in designing and developing web applications, I thrive on creating solutions that merge functionality and user experience.  
 
